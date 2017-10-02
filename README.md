@@ -8,5 +8,7 @@ Source: https://www.youtube.com/watch?v=zDup0I2VGmk
 
 2. Add .env file in root directory. 
 > touch .env 
+
+3. Add Key = Value in the .env file. 
 > copy and paste 'SECRET_MESSAGE = nothing is here.' into the .env file. 
 
